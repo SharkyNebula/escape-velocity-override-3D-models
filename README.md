@@ -1,4 +1,4 @@
-# endless-override-art-files
+# escape-velocity-override-3D-models
 
 Peter Cartwright and Ambrosia Software, Inc. have worked together to bring you almost all the original 3D designs used to create the graphics for EV: Override.
 	This includes the models for planets, stations, ships, weapons, outfit items, and so on. They are all Infini-D format, because that's what was used to make them.
